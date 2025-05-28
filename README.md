@@ -62,6 +62,8 @@
 
 ###
 
+---
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -90,7 +92,9 @@
 ###
 
 <div align="center">
-  <img height="400px" width="550px" src="https://media1.tenor.com/m/zdgu83Ng7pMAAAAC/ruridragon-ruri-dragon.gif"  />
+  <img height="400px" width="600px" src="https://media1.tenor.com/m/zdgu83Ng7pMAAAAC/ruridragon-ruri-dragon.gif"  />
 </div>
 
 ###
+
+---
