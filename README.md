@@ -14,9 +14,8 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />  
+<img align="right" height="150" src="https://media1.tenor.com/m/1Ft3NCxsYUEAAAAC/ruridragon-pv.gif" alt="fun gif" />  
 
-<!-- Bagian logo diperbaiki supaya horizontal -->
 <div align="left" style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
