@@ -9,8 +9,10 @@
 
 ---
 
-<!-- FOTO PROFIL -->
-<img align="right" height="150" src="https://raw.githubusercontent.com/SolehMajid/SolehMajid/Test-Gambar/profile.jpg" alt="my profile photo" />
+<!-- GAMBAR ANIME -->
+<img align="right" height="180" src="https://i.pinimg.com/originals/62/1d/13/621d13f96cf0d2225f3fd514845268d8.jpg" alt="anime profile" />
+
+### 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
