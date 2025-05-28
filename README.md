@@ -1,6 +1,7 @@
 <h1 align="left"><b>Hallo Everyone 🙌, I'm Aji From Indonesia 🇮🇩</b></h1>  
 <br>
 <p>I'm Aji, a passionate software developer from Indonesia with a strong interest in front-end and back-end technologies. Skilled in JavaScript, Python, HTML5, CSS3, and UI/UX design using Figma. I enjoy 😁</p>
+
 ---
 
 <div align="center">  
