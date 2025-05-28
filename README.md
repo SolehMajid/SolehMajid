@@ -92,7 +92,7 @@
 ###
 
 <div align="center">
-  <img height="150px" width="250px" src="https://media1.tenor.com/m/zdgu83Ng7pMAAAAC/ruridragon-ruri-dragon.gif"  />
+  <img height="250px" width="350px" src="https://media1.tenor.com/m/zdgu83Ng7pMAAAAC/ruridragon-ruri-dragon.gif"  />
 </div>
 
 ###
