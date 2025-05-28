@@ -9,7 +9,8 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+<!-- FOTO PROFIL -->
+<img align="right" height="150" src="https://raw.githubusercontent.com/SolehMajid/SolehMajid/Test-Gambar/profile.jpg" alt="my profile photo" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
