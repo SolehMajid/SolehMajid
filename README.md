@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Soleh Majid</h1>
+  <h1>Ahmad Soleh Majid</h1>
   <p>Software Developer | Computer Science Student</p>
 
   <p>
@@ -54,14 +54,6 @@ Software developer and undergraduate student based in Indonesia with a strong fo
 
 ---
 
-### GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolehMajid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SolehMajid&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
 
 ### Contribution Activity
 
